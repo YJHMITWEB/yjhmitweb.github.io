@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Join the amazing SC'23 conference as student volunteer, at Denver, Colorado. Together with our extraordinary team at OSU!
+date: 2023-11-11
 inline: false
 related_posts: false
 ---
