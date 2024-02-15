@@ -6,7 +6,7 @@ subtitle: <a href=''>English name:</a> Murphy ('s law)
 
 profile:
   align: right
-  image: head2.jpg
+  image: head3.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Phone: 425-543-4197</p>
